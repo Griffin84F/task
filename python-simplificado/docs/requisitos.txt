@@ -1,0 +1,36 @@
+sistema anota task
+
+1 tela principal
+
+opções baseadas nas tasks
+funcional 
+sistema precisa permitir add novas tasks
+''       ''       ''     listar todas as task
+''      ''          ''    atualizar as task
+''      ''        ''      deletar as tasks
+
+mostrar quant de tarefas pendentes e concluidas
+
+campos de preenchimento
+
+
+titulo das task - estudos bateria
+descrição - preciso estudar rudimentos por 30m
+prioridade - baixa media alta 
+status - pendente, em andamento concluidas
+dt_criação - quando essa task foi concluida 
+dt_conclusão - quando essa task foi finalizada 
+
+=================================================
+        ANOTA TASK - GERENCIADOR DE TAREFAS 
+==================================================
+opções:
+
+1 - adicionar task
+2 - listar task 
+3 - atualizar task
+4 - excluir task 
+5 - relatorio (tasks pendente x andamento)
+6 - sair 
+===================================================
+Escolha uma opção 

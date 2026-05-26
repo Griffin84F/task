@@ -1,0 +1,14 @@
+nome da base de dados
+
+projetos.db
+
+tabelas
+tarefas
+ID INTEGER PRIMARY KEY AUTOINCREMENT
+titulo text not null,
+descricao text
+prioridade
+status
+data_criacao
+data_conclusao
+
